@@ -1,5 +1,4 @@
-# hello-world
+# A Nagyszabású Hello World Projekt
 
-My first project on GitHub
 
-Ez itt a módosított tartalom.
+Ez itt a módosított tartalom. Előtte törölgettem is dolgokat és a címét is átírtam
